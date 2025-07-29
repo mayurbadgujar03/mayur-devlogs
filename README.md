@@ -7,33 +7,6 @@ Welcome to my **developer journal**, where I document the entire process of buil
 
 ---
 
-## 📌 Currently Logged Projects
-
-### 🧾 Expenso – Expense Tracker (June 2025)
-- Stack: Node.js, Express.js, MongoDB, JWT
-- Goal: Learn backend architecture, authentication, and data modeling
-
-| Day | Log |
-|-----|-----|
-| Day 1 | [Kickoff + Auth Setup](./expenso/day01.md) |
-| Day 2 | [Middleware + Secure Cookies](./expenso/day02.md) |
-| Day 3 | [Item Model + Creation Logic](./expenso/day03.md) |
-| Day 4 | [Purchase Model + Confirm Flow](./expenso/day04.md) |
-| Day 5 | [Dashboard Stats (Daily/Monthly)](./expenso/day05.md) |
-| Day 6 | [Purchase History + Populate](./expenso/day06.md) |
-| Day 7 | [Refactors + Error Handling](./expenso/day07.md) |
-| Day 8 | [README + Final MVP Backend](./expenso/day08.md) |
-
----
-
-## 🌱 Upcoming Logs
-
-### Full-stack Projects (Coming soon)
-
-➡️ Logs will be added under `future-projects/`
-
----
-
 ## 🙋‍♂️ About Me
 
 I'm **Mayur Badgujar**, a JavaScript-focused developer building real-world apps with modern web tech.  
